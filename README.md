@@ -1,4 +1,4 @@
-# 2-DC-Stepper-Motor-Independent-and-Parallel-Control-System-using-UART-Commands
+# 6-DC-Stepper-Motor-Independent-and-Parallel-Control-System-using-UART-Commands
 # ESP32 6-Vent Control System
 This project controls 6 ventilation motors independently using an ESP32, UART communication, H-bridge motor drivers, and limit sensors.
 
